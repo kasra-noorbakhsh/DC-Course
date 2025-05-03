@@ -20,7 +20,6 @@ This repository contains assignments for the Data Communications course, focusin
 ## 🧰 Tools Used
 
 - [Python](https://www.python.org/) for CA1 implementation
-  - Libraries: NumPy, Matplotlib
 - [MATLAB](https://www.mathworks.com/products/matlab.html) for CA2 implementation
 
 ---
@@ -55,3 +54,10 @@ This will run the quantization algorithm for multiple test cases and display plo
    Open main.m in MATLAB and run it.
    The script processes the input string 'kasra', applies Huffman and convolutional coding, simulates noise, and decodes the result.
    Uncomment the trial loop and related lines in main.m to test the success rate over multiple trials.
+
+---
+
+## 📬 Contact
+
+Made by **Kasra Noorbakhsh**  
+📧 Feel free to connect or provide feedback!
